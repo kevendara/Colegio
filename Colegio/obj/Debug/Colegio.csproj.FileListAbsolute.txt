@@ -1,0 +1,8 @@
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\bin\Colegio.dll.config
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\bin\Colegio.dll
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\bin\Colegio.pdb
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\obj\Debug\Colegio.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\obj\Debug\Colegio.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\obj\Debug\Colegio.dll
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\obj\Debug\Colegio.pdb
+D:\Practivas -Pre-profesionales\Apps\Colegio\Colegio\obj\Debug\Colegio.csprojAssemblyReference.cache
